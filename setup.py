@@ -11,7 +11,7 @@ setuptools.setup(
     description="Hello_World!!!!!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tasksss/hello_world",
+    url="https://github.com/tasksss/hello",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
